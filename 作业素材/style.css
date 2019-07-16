@@ -1,0 +1,128 @@
+.reg_span{
+    color:gray;
+    font-size: 20px;
+    margin-left: 30px;
+}
+.login_span{
+    color:black;
+    font-size: 30px;
+    margin-left: 30px;
+    font-weight: bold;
+}
+
+
+img {
+    width: 100%;
+    height: 100%;
+}
+
+.app{
+    height: 900px;
+    width: 500px;
+
+}
+
+.eee{
+    width: 90%;
+    font-size: 25px;
+    margin-left:30px;
+    font-weight: bold;
+    color: red;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+
+#wq::-webkit-input-placeholder {
+    color: black;
+    
+
+}
+
+.aaa {
+    background-color: #FFEFF0;
+    color: red;
+    border-radius: 20px;
+    font-size: 25px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+
+
+.qqq{
+    width: 50%;
+    font-size: 25px;
+    margin-left:30px;
+    font-weight: bold;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+   
+}
+
+#ww::-webkit-input-placeholder {
+    color: black;
+}
+
+.zzz{
+    width: 90%;
+    font-size: 25px;
+    margin-left:30px;
+    font-weight: bold;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#zz::-webkit-input-placeholder {
+    color: black;
+}
+
+.dx{
+    font-weight: bold; 
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.xx{
+     text-align: center;
+   
+}
+
+.vv{
+    font-size: 25px;
+    border-radius: 20px;
+    width: 80%;
+    background-color:#F65C54;
+    color: #FFEFF0;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.tt{
+    text-align: center;
+    color: gray;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.img{
+    width: 10%;
+    margin-left: 40px; 
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.yy{
+    text-align: center;
+    color: gray;
+    margin-top: 20px;
+}
+
+.ss{
+    text-align: center;  
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
