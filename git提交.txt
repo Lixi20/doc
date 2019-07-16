@@ -1,14 +1,14 @@
 git clone git@github.com:Lixi20/hello-world.git
 cd hello-world
 ls
-touch ÎÄ¼ş
-vim ÎÄ¼ş£¨Ëæ±ãĞ´µã¶«Î÷£¬È»ºóESC  ¡¢£ºq£¡£©
+touch æ–‡ä»¶
+vim æ–‡ä»¶ï¼ˆéšä¾¿å†™ç‚¹ä¸œè¥¿ï¼Œç„¶åESC    æ¥ç€  ï¼šqï¼ï¼‰
 git add
-git add ÎÄ¼ş
-git status  (²é¿´×´Ì¬)
-git commit -m"ÄÚÈİ"
+git add æ–‡ä»¶
+git status  (æŸ¥çœ‹çŠ¶æ€)
+git commit -m"å†…å®¹"
 git push
 
 
-rm -f ÎÄ¼ş£¨É¾³ıÖ¸Áî£©
-cd ..  ÊÇÏòÉÏÒ»¸öÎÄ¼şµÄÒâË¼
+rm -f æ–‡ä»¶ï¼ˆåˆ é™¤æŒ‡ä»¤ï¼‰
+cd ..  æ˜¯å‘ä¸Šä¸€ä¸ªæ–‡ä»¶çš„æ„æ€
