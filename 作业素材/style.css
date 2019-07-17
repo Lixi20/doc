@@ -32,6 +32,7 @@ img {
     margin-top: 20px;
     margin-bottom: 20px;
     width:400px; height:50px;
+    border:1px solid #DBDBDB;
     
 }
 
@@ -49,6 +50,7 @@ img {
     margin-top: 20px;
     margin-bottom: 20px;
     width:150px; height:50px;
+    border:1px solid #DBDBDB;
     
 }
 
@@ -62,6 +64,7 @@ img {
     margin-top: 20px;
     margin-bottom: 20px;
     width:250px; height:50px;
+    border:1px solid #DBDBDB;
    
 }
 
@@ -78,6 +81,7 @@ img {
     margin-top: 20px;
     margin-bottom: 20px;
     width:400px; height:50px;
+    border:1px solid #DBDBDB;
 }
 
 #zz::-webkit-input-placeholder {
@@ -106,6 +110,7 @@ img {
     margin-top: 20px;
     margin-bottom: 20px;
     width:400px; height:60px;
+    border:1px solid #DBDBDB;
 }
 .tt{
     text-align: center;
@@ -127,8 +132,12 @@ img {
     color: gray;
     margin-top: 20px;
     font-weight: bold; 
+    
 }
 
+a {
+    color: #279DE0;
+  }
 
 .ss{
     text-align: center;  
