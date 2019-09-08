@@ -6,8 +6,9 @@ vim 文件（随便写点东西，然后ESC    接着  ：q！）
 git add
 git add 文件
 git status  (查看状态)
-git commit -m"内容"
+git commit -m "内容"
 git push
+git pull 拉
 
 
 rm -f 文件（删除指令）
