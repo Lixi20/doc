@@ -10,6 +10,5 @@ git commit -m "内容"
 git push
 git pull 拉
 
-
-rm -f 文件（删除指令）
+git rm 文件（删除指令）
 cd ..  是向上一个文件的意思
