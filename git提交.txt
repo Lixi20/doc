@@ -1,3 +1,11 @@
+查看密钥：
+ssh root@公网IP
+cat /etc/shadowsocks.json
+
+
+
+
+
 git clone git@github.com:Lixi20/hello-world.git
 cd hello-world
 ls
@@ -12,3 +20,57 @@ git pull 拉
 
 git rm 文件（删除指令）
 cd ..  是向上一个文件的意思
+
+
+
+
+
+推送
+ls
+cd 文件
+git branch 查看分支
+git add
+git commit -m""
+git push origin lixi(仓库名)
+
+
+
+
+
+
+
+新建分支
+git checkout -b lixi2 origin/lixi2    （checkout 新建拉取仓库内容）
+
+
+
+
+
+
+拉取
+ls
+git clone git@gitee.com:warp-drive-tech/gee-tagger.git
+ls
+cd 文件
+ls
+git branch
+git checkout 分支
+git branch
+git pull
+
+git log
+q
+git pull origin 分支
+git checkout 分支
+
+
+
+
+
+
+灰色文件（打不开）
+清理缓存
+git rm -r --cached "文件夹的名称" 
+git commit -m "更新log"
+git push -u origin master
+
